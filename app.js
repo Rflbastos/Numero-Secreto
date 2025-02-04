@@ -1,5 +1,5 @@
 alert('Boas vindas ao jogo do número secreto');
-let numeroMaximo = 1000;
+let numeroMaximo = 50;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1); // Math.random ele cria numeros aleatorios de entre 0 (inclusive) e 1 (exclusive)  com 16 casas decimais,
 //  parseInt é usado para mostrar a somente a parte INTEIRA, 
 // por isso multiplicamos por 100 para termos numero entre 0 e 99 como queremos numeros de 1 a 100 somamos 1.
