@@ -1,4 +1,4 @@
-<h1># Jogo do Número Secreto 🎲  </h1>
+<h1> Jogo do Número Secreto 🎲  </h1>
 
 Um jogo simples onde o usuário deve adivinhar um número secreto gerado aleatoriamente.
 
