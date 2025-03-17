@@ -10,6 +10,19 @@ Um jogo simples onde o usuário deve adivinhar um número secreto gerado aleator
 ## 📌 Como rodar o projeto  
 1. Clone este repositório:  
 Jogo do número secreto
+2. Abra o arquivo `index.html` no navegador.  
+
+## 🎮 Como jogar  
+- O jogo gera um número aleatório.  
+- O usuário deve tentar adivinhar o número digitando no input.  
+- O jogo dá dicas se o número é maior ou menor.  
+
+## 🔥 Melhorias futuras  
+- Adicionar um contador de tentativas.  
+- Criar um ranking dos melhores tempos.  
+- Implementar um modo difícil.  
+
+---
 
 
  
